@@ -1,2 +1,1 @@
-package PACKAGE_NAME;public record Coor() {
-}
+public record Coor(Integer row, Integer col) {}

@@ -1,6 +1,6 @@
 Here's the output of the Racer.main(). I went until I didn't want to wait anymore...
 
-
+```
 Here's with an 4x4 board, solved in 0.013 seconds
 ⬛👑⬛⬜
 ⬜⬛⬜👑
@@ -156,4 +156,4 @@ Here's with an 16x16 board, solved in 580.254 seconds
 ⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛👑⬛⬜⬛⬜⬛
 ⬛⬜⬛⬜⬛⬜⬛👑⬛⬜⬛⬜⬛⬜⬛⬜
 ⬜⬛⬜⬛⬜⬛⬜⬛⬜👑⬜⬛⬜⬛⬜⬛
-
+```

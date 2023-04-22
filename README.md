@@ -1,4 +1,5 @@
 Here's the output of the Racer.main(). I went until I didn't want to wait anymore...
+
 (This is run on a single 0.5 gig core processor, if that affected your opinion at all)
 
 ```

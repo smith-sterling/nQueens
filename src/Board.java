@@ -21,6 +21,10 @@ public class Board {
     }
     
     public void solve() {
+        if (size == 1) {
+            this.board = this.putQueen(board, 0);
+            return;
+        }
         solveHelper(0, board);
     }
     private boolean solveHelper(int index, Square[][] board) {

@@ -4,7 +4,9 @@ public class Racer {
 
     public static void main(String[] args) {
         long preSolve;
-        for (int i = 4; i < 20; ++i) {
+        for (int i = 1; i < 20; ++i) {
+            if (i == 2 || i == 3) continue;
+            
             Board board = new Board(i);
             
             preSolve = System.currentTimeMillis();

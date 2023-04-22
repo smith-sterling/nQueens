@@ -1,5 +1,7 @@
 Here's the output of the Racer.main(). I went until I didn't want to wait anymore...
 
+There's just something aesthetically pleasing about 4, 5, 6, 7, and 11...
+
 (This is run on a single, 0.5-gig core, if that affected your opinion at all)
 
 ```
